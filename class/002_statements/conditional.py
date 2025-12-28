@@ -7,7 +7,7 @@
 #     print('not eligible for vote')
 
 
-a=100
+a=10
 b=200
 c=150
 if a>b and a>c:
