@@ -1,0 +1,44 @@
+OOPS
+Object-Oriented Programming (OOP) is a programming paradigm that 
+organizes software design around data, or objects, rather than functions and 
+logic. Python is an object-oriented language, which means it supports all the 
+main concepts of OOP, including classes, objects, inheritance, 
+encapsulation, polymorphism, and abstraction
+
+Class and Object 
+
+Class: A class is a blueprint for creating objects (a particular data structure), defining 
+initial states (attributes), and behaviors (methods).
+
+Object: An object is an instance of a class. It is the actual entity created based on the 
+class blueprint.
+
+Concepts in Python Classes
+Class Definition: A class is defined using the class keyword, followed by the class name 
+(in CamelCase style by convention).
+
+Attributes: Attributes are variables that hold data for the objects created from the class. 
+These can be instance attributes (specific to an object) or class attributes (shared by all 
+instances of the class).
+
+Methods: Methods are functions that define the behaviors of the class. They typically 
+operate on the attributes of the object or class and can be used to modify or interact with 
+the object's data.
+
+Constructor (__init__): The constructor is a special method that is called when an object 
+is created from the class. It initializes the object's state (attributes).
+
+Instance vs. Class Attributes:
+
+Instance attributes are specific to each object created from the class.
+Class attributes are shared by all instances of the class.
+
+Instance Methods: Methods that operate on instances of the class, using the instance’s 
+attributes.
+
+Class Methods: Methods that operate on the class itself rather than individual instances. 
+These methods are defined with the @classmethod decorator.
+
+Static Methods: Methods that do not operate on an instance or the class itself but behave 
+like normal functions. These methods are defined with the @staticmethod decorator
+ 

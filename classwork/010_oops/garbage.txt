@@ -1,0 +1,6 @@
+Memory Management: Objects are dynamically allocated in memory. When an 
+object is no longer in use (i.e., no references point to it), it is eligible for garbage 
+collection, which is a process where Python automatically frees up memory by 
+removing unused objects.
+Garbage Collection: Python uses a garbage collector to manage memory and 
+remove objects that are no longer being used

@@ -1,0 +1,2 @@
+# the aggregation is a relationship between two classes where one class contains a reference to another class. It is a "has-a" relationship, meaning that one class has an instance of another class as a member variable.
+# The contained class can exist independently of the containing class.
